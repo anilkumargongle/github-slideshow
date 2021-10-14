@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Focuse like a leans" - Anil Kumar
 Use the left arrow to go back!
